@@ -1,2 +1,3 @@
 # bomberApp
 App nacida con la misión de ser el primer paso hacia la digitalización y gestión  de la información de la Asociación de Bomberos Voluntarios de Rauch. 
+Dará un fácil acceso a estadísticas e información detallada de la institución y  sus integrantes, permitiendo, la gestión de tareas y puntajes, es decir, puntuar después de servicios, cursos, capacitaciones y cualquier otra actividad pudiendo tener estadísticas al alcance en cualquier momento. Desde la plataforma se podrá acceder también a los manuales, documentación y toda aquella información que pueda ser de ayuda al bombero para su continua capacitación y profesionalización.
